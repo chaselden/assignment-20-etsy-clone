@@ -3,8 +3,30 @@
 	box-sizing: border-box;
 }
 
+.nav-bar{
+padding: 20px;
+font-size: 20;
+background-color: #F5F5F1;
+}
+#etsy-images{
+	.thumbnail{
+	padding: 5px;
+	border: 1px solid;
+	border-color: white;
+	// margin-bottom: auto;
+	}
+}
 h1 {
-	font-size: 300px;
+	font-size: 3px;
 	text-align: center;
-	color: fuchsia;
+	color: blue;
+}
+.multi-item-card{
+	img{
+		// width: 200px;
+		text-align: left;
+	}
+	p{
+		margin: auto;
+	}
 }
